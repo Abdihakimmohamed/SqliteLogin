@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">SqliteLogin</string>
+    <string name="hint_name">Name...</string>
+    <string name="hint_email"> Email...</string>
+    <string name="hint_password">Password...</string>
+    <string name="hint_confirm_password">Confirm Password...</string>
+    <string name="text_login">Login</string>
+    <string name="text_register">Register</string>
+    <string name="error_message_name">Enter Full Name</string>
+    <string name="error_message_email">Enter Valid Email</string>
+    <string name="error_message_age">Enter Age</string>
+    <string name="error_message_password">Enter Password</string>
+    <string name="success_message">Registration Successful</string>
+    <string name="text_not_memeber">No account yet? Create one.</string>
+    <string name="text_already_member">Already member? Login.</string>
+    <string name="error_email_exist">Email Already Exists</string>
+    <string name="error_password_match">Password does not match</string>
+    <string name="error_invalid_email_password">Wrong email or Password</string>
+    <string name="error_message_email_password_miss">Email or password missing</string>
+    <string name="error_message_email_empty"> Enter email</string>
+</resources>
